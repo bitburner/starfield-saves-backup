@@ -10,3 +10,9 @@ Create a folder for your saves and put the path here:
 ```
 $backupFolderPath = "C:\starfieldSavesBackup"
 ```
+__Run the script:__
+```
+PS C:starfieldSavesBackup>.\StarfieldSavesBackup.ps1
+```
+
+If you get a security warning you can choose "[R] Run once"
