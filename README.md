@@ -10,7 +10,7 @@ Create a folder for your saves and put the path here:
 ```
 $backupFolderPath = "C:\starfieldSavesBackup"
 ```
-__Run the script:__
+__Run the script: (I suggest putting in your backup folder)__
 ```
 PS C:starfieldSavesBackup>.\StarfieldSavesBackup.ps1
 ```
